@@ -1,5 +1,5 @@
 ---
-title: README -- Adidas Sales Dashboard
+Adidas Sales Dashboard
 ---
 
 # Overview
